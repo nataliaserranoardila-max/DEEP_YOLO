@@ -1,0 +1,10 @@
+# Se generan con los scripts (no se suben)
+data/formas/
+coco128/
+coco128.zip
+runs/
+yolov8n.pt
+yolo11n.pt
+resultado_demo.jpg
+__pycache__/
+.ipynb_checkpoints/
